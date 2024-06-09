@@ -1,3 +1,5 @@
+import Userinfo from "./userInfo/UserInfo"
+import ChatList from "./chatList/ChatList"
 import "./list.css"
 
 const List = () => {
