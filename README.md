@@ -1,3 +1,3 @@
-# Lama Dev Chat App Starter template
+# Senschatt
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A chat application by JDevelopment that is work in progress
